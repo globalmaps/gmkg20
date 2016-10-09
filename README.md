@@ -1,4 +1,4 @@
-# gmkg10: Global Map Kyrgyz 2.0
+# gmkg20: Global Map Kyrgyz 2.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
